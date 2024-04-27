@@ -16,3 +16,6 @@ The Student Management System is a Python program designed to help the administr
 * Search student
 * Remove student
 * Exit
+
+## Additional Information
+This was submitted as an assignment for CT119-0-M-IRP Introduction to R Programming @ APU.
