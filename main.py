@@ -1,6 +1,3 @@
-# This was submitted as an assignment to CT088-0-M Programming in Python @ APU
-
-
 student_masterlist = []
 student_masterlist_labels = ["Student Name", "Student ID", "Course Enrolled", "Student's CGPA"]
 
