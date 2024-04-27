@@ -1,5 +1,3 @@
-# TAN YEE LING
-# TP074407
 # This was submitted as an assignment to CT088-0-M Programming in Python @ APU
 
 
